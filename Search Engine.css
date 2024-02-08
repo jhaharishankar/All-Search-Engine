@@ -1,0 +1,53 @@
+/* Google */
+.g-blue {
+    color: #4285F4;
+}
+
+.o-red {
+    color: #DB4437;
+}
+
+.o-yellow {
+    color: #F4B400;
+}
+
+.l-green {
+    color: #0F9D58;
+}
+
+.e-red {
+    display: inline-block;
+    transform: rotate(-20deg);
+}
+
+/* Reddit */
+#reddit {
+    color: #FF5700
+}
+img{
+    width: 20px;
+    height: 20px;
+}
+/* Bing */
+#bing {
+    color: rebeccapurple
+}
+
+/* DuckDuckGo */
+#duckduckgo {
+    color: orange;
+}
+
+/* Ask.com */
+#ask {
+    color: red;
+}
+
+div {
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+button {
+    text-shadow: 1px 1px 2px rgb(132, 57, 57), 0 0 1em rgb(24, 24, 112), 0 0 0.2em rgb(52, 52, 134);
+}
