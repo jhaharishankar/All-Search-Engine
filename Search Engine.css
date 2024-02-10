@@ -1,8 +1,10 @@
 /* Google */
+form input{
+        border-radius: 10px;
+        }
 .g-blue {
     color: #4285F4;
 }
-
 .o-red {
     color: #DB4437;
 }
